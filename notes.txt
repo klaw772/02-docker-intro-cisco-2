@@ -1,0 +1,12 @@
+Objectives:
+[] Write a Dockerfile
+[] Build an Image
+[] Run the Image in a Container
+
+Key Questions:
+- What is Docker?
+- Why is Docker important?
+- What is an image, what is a container, how are they different?
+- What will the contents of the Dockerfile let us do?
+- What is the difference between docker build and docker run?
+- Why is it necessary to publish a port (using -p) when running Docker app?
